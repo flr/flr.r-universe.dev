@@ -15,6 +15,16 @@
   },
   
   {
+    "package": "FLFishery",
+    "url": "https://github.com/flr/FLFishery"
+  },
+  
+  {
+    "package": "ss3om",
+    "url": "https://github.com/flr/ss3om"
+  },
+  
+  {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
   }
