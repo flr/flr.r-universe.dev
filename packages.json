@@ -5,11 +5,6 @@
   },
 
   {
-    "package": "FLasher",
-    "url": "https://github.com/flr/FLasher"
-  },
-
-  {
     "package": "ggplotFL",
     "url": "https://github.com/flr/ggplotFL"
   },
@@ -17,6 +12,11 @@
   {
     "package": "FLBRP",
     "url": "https://github.com/flr/FLBRP"
+  },
+  
+  {
+    "package": "FLasher",
+    "url": "https://github.com/flr/FLasher"
   }
 
 ]
