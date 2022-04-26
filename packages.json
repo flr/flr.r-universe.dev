@@ -2,21 +2,18 @@
     {
         "package": "FLCore",
         "url": "https://github.com/flr/FLCore"
-    }
-],
-[ 
+    },
+
     {
         "package": "FLasher",
         "url": "https://github.com/flr/FLasher"
-    }
-],
-[ 
+    },
+
     {
         "package": "ggplotFL",
         "url": "https://github.com/flr/ggplotFL"
-    }
-],
-[ 
+    },
+
     {
         "package": "FLa4a",
         "url": "https://github.com/flr/FLa4a"
