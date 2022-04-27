@@ -40,6 +40,11 @@
   },
   
   {
+    "package": "FLAssess",
+    "url": "https://github.com/flr/FLAssess"
+  },
+  
+  {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
   }
