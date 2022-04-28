@@ -30,6 +30,11 @@
   },
   
   {
+    "package": "a4adiags",
+    "url": "https://github.com/flr/a4adiags"
+  },
+
+  {
     "package": "mse",
     "url": "https://github.com/flr/mse"
   },
