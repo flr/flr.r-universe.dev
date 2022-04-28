@@ -35,6 +35,11 @@
   },
 
   {
+    "package": "bbm",
+    "url": "https://github.com/flr/bbm"
+  },
+
+  {
     "package": "mse",
     "url": "https://github.com/flr/mse"
   },
