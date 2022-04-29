@@ -55,6 +55,11 @@
   },
   
   {
+    "package": "FLXSA",
+    "url": "https://github.com/flr/FLXSA"
+  },
+  
+  {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
   }
