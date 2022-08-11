@@ -60,6 +60,11 @@
   },
   
   {
+    "package": "AAP",
+    "url": "https://github.com/flr/AAP"
+  },
+  
+  {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
   }
