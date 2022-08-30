@@ -79,6 +79,11 @@
   {
     "package": "FLSAM",
     "url": "https://github.com/flr/FLSAM"
+  },
+
+  {
+    "package": "FLBEIA",
+    "url": "https://github.com/flr/FLBEIA"
   }
 
 ]
