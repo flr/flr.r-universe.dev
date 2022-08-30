@@ -67,6 +67,18 @@
   {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
+  },
+
+  {
+    "package": "stockassessment",
+    "url": "https://github.com/fishfollower/SAM/",
+    "subdir": "stockassessment",
+    "branch": "components"
+  },
+  
+  {
+    "package": "FLSAM",
+    "url": "https://github.com/flr/FLSAM"
   }
 
 ]
