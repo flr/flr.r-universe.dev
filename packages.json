@@ -82,6 +82,16 @@
   },
 
   {
+    "package": "FLFleet",
+    "url": "https://github.com/flr/FLFleet"
+  },
+
+  {
+    "package": "FLash",
+    "url": "https://github.com/flr/FLash"
+  },
+
+  {
     "package": "FLBEIA",
     "url": "https://github.com/flr/FLBEIA"
   }
