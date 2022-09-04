@@ -83,7 +83,8 @@
 
   {
     "package": "FLfse",
-    "url": "https://github.com/shfischer/FLfse"
+    "url": "https://github.com/shfischer/FLfse",
+    "subdir": "FLfse"
   },
 
   {
