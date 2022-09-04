@@ -82,6 +82,11 @@
   },
 
   {
+    "package": "FLfse",
+    "url": "https://github.com/shfischer/FLfse"
+  },
+
+  {
     "package": "FLFleet",
     "url": "https://github.com/flr/FLFleet"
   },
