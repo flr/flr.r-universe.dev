@@ -45,6 +45,11 @@
   },
   
   {
+    "package": "mseviz",
+    "url": "https://github.com/flr/mseviz"
+  },
+  
+  {
     "package": "FLSRTMB",
     "url": "https://github.com/flr/FLSRTMB"
   },
