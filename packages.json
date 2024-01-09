@@ -98,6 +98,11 @@
   {
     "package": "FLBEIA",
     "url": "https://github.com/flr/FLBEIA"
+  },
+
+  {
+    "package": "FLRef",
+    "url": "https://github.com/Henning-Winker/FLRef"
   }
 
 ]
