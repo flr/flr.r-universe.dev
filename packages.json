@@ -114,5 +114,10 @@
   {
     "package": "FLRef",
     "url": "https://github.com/flr/FLRef"
+  },
+
+  {
+    "package": "FLife",
+    "url": "https://github.com/flr/FLife"
   }
 ]
