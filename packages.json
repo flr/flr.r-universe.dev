@@ -50,6 +50,11 @@
   },
   
   {
+    "package": "msemodules",
+    "url": "https://github.com/flr/msemodules"
+  },
+  
+  {
     "package": "mseviz",
     "url": "https://github.com/flr/mseviz"
   },
