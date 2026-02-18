@@ -124,5 +124,10 @@
   {
     "package": "FLife",
     "url": "https://github.com/flr/FLife"
+  },
+
+  {
+    "package": "mpb",
+    "url": "https://github.com/lauriekell/mpb"
   }
 ]
