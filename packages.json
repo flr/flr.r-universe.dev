@@ -102,6 +102,12 @@
   },
 
   {
+    "package": "spict",
+    "url": "https://github.com/DTUAqua/spict/",
+    "subdir": "spict"
+  },
+
+  {
     "package": "FLFleet",
     "url": "https://github.com/flr/FLFleet"
   },
